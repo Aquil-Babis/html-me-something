@@ -1,15 +1,25 @@
 * {
     background:  #2d8659;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-p.cite {
+#glasses {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35;
+  
+}
+figcaption {
+    text-align: center
+}
+b {
     text-decoration-line: underline;
-    
-
 }
 
 p {
+    font-size: 150%;
+    padding: 10%;
+    padding-top: 0%;
+    padding-bottom: 0%;
 
-    margin: 25px 50px 25px 50px;
-
-    
 }
